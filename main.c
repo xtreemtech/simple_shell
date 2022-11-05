@@ -32,7 +32,7 @@ int main(
 			(get_stdin == NULL) || (temp == NULL) ||
 			(tempforfindfile == NULL))
 	{
-		paid(copy_PATH);
+		free(copy_PATH);
 		free(copy_PWD);
 		free(get_stdin);
 		free(temp);
