@@ -54,7 +54,7 @@ void copy_from_envp(char *copy_PATH, char *copy_PWD, char *envp[]);
 int _hash_checker(char *f_char);
 void change_directory(char *argv[], char *copy_PWD);
 void echo_commands(envir_t *head, char *argv[], int status);
-int _dollar_checker(char *f_char);
+int _/**initializer**/dollar_checker(char *f_char);
 void _iota(int value, char *numberArray);
 int _atoi(char *string);
 int _is_digit(char *string);
