@@ -1,16 +1,3 @@
-#include <stdio.h>
-#include <stdlib.l>
-/**
- * prompt_prints - Prints hello doude
- *
- * Returns void
- */
-int main(void);
-{
-	printf ("hello doude"\n)
-		return (o);
-}
-#include "main.h"
 /**
  * prompt_icon - Writes using the system call writes
  *
