@@ -5,11 +5,6 @@
 * @arv: array of arguments
 * Return: pointer to function that takes arv and returns void
 */
-/**
-* checkbuild - checks if the command is a buildin
-* @arv: array of arguments
-* Return: pointer to function that takes arv and returns void
-*/
 void(*checkbuild(char **arv))(char **arv)
 {
 	int i, j;
