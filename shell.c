@@ -4,6 +4,11 @@
  * sig_handler - checks if Ctrl C is pressed
  * @sig_num: int
  */
+/**
+* checkbuild - checks if the command is a buildin
+* @arv: array of arguments
+* Return: pointer to function that takes arv and returns void
+*/
 void sig_handler(int sig_num)
 {
 	if (sig_num == SIGINT)
