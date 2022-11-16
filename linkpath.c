@@ -6,6 +6,11 @@
  * @name: name of the global variable
  * Return: string of value
  */
+/**
+* checkbuild - checks if the command is a buildin
+* @arv: array of arguments
+* Return: pointer to function that takes arv and returns void
+*/
 char *_getenv(const char *name)
 {
 	int i, j;
