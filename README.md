@@ -320,5 +320,6 @@ $
 
 ## Authors ##
 
-👤 **Yonas Leykun**
+👤 **Joshua Temiloluwa**
+👤 **Daniel Nwachukwu**
 
