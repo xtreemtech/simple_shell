@@ -7,7 +7,11 @@
  * @delim: the delimiter
  * Return: array of pointers to words
  */
-
+/**
+* checkbuild - checks if the command is a buildin
+* @arv: array of arguments
+* Return: pointer to function that takes arv and returns void
+*/
 char **splitstring(char *str, const char *delim)
 {
 	int i, wn;
