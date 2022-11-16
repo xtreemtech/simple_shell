@@ -65,3 +65,10 @@ void free_list(list_path *head);
 
 
 #endif
+
+/**
+* checkbuild - checks if the command is a buildin
+* @arv: array of arguments
+* Return: pointer to function that takes arv and returns void
+*/
+
