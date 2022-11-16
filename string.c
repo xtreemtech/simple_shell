@@ -112,3 +112,9 @@ void _puts(char *str)
 		i++;
 	}
 }
+
+/**
+* checkbuild - checks if the command is a buildin
+* @arv: array of arguments
+* Return: pointer to function that takes arv and returns void
+*/
