@@ -9,3 +9,7 @@ Welcome to shell scripting
   <li>getpid</li>
   <li>getppid</li>
   <li>getline</li>
+  <li>getcwd</li>
+  <li>kill</li>
+  <li>access</li>
+  <li>malloc</li>
